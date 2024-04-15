@@ -25,5 +25,10 @@
 </p>
 
 ## Activities:
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imxuan03&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="imxuan03"/>
+
+<p> 
+  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="auto" height="250px"/>
+</p>
 
 
